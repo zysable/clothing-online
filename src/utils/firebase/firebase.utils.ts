@@ -25,12 +25,12 @@ import {
 import { Category } from '../../store/categories/categories.type'
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyCSjfzn2_u62i_D0FP3pxz98g1UXXtuENw',
-  authDomain: 'ecommerce-db-59ad6.firebaseapp.com',
-  projectId: 'ecommerce-db-59ad6',
-  storageBucket: 'ecommerce-db-59ad6.appspot.com',
-  messagingSenderId: '1043066423469',
-  appId: '1:1043066423469:web:145dbd729c44594bc49e24'
+  apiKey: 'ENV',
+  authDomain: 'ENV',
+  projectId: 'ENV',
+  storageBucket: 'ENV',
+  messagingSenderId: 'ENV',
+  appId: 'ENV'
 }
 
 // Initialize Firebase
